@@ -1,4 +1,4 @@
-![logo](https://github.com/Amritt2002/Amritt2002/blob/main/Screenshot%202024-02-21%20221234.png)
+![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
 <h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
 <h3 align="center">A passionate Designer and developer from India</h3>
 
